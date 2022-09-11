@@ -3,7 +3,8 @@ body {
   padding: 50px;
 }
 
-header {
+header,
+h4 {
   text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
