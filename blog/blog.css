@@ -27,3 +27,8 @@ p {
 nav {
   padding: 10px;
 }
+
+.image-adjust {
+  max-width: 30%;
+  margin: 40px;
+}
