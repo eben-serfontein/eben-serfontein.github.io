@@ -2,6 +2,7 @@ body {
   font-family: sans-serif;
   margin: 50px;
   margin-right: 100px;
+  padding-top: 50px;
 }
 
 .title {
@@ -36,4 +37,8 @@ nav {
 .image-adjust {
   max-width: 30%;
   margin: 40px;
+}
+
+.section2 {
+  padding-top: 50px;
 }
